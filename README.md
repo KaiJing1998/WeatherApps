@@ -1,16 +1,11 @@
-# weather_app
+# Flutter Weather App
 
-A new Flutter project.
+Introduction
+Welcome to the Weather App! This application provides real-time weather updates using a clean and intuitive user interface based on location. Built with Flutter, the app is designed to deliver accurate and timely weather information seamlessly.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+## UI Interface 
 
-A few resources to get you started if this is your first Flutter project:
+![alt text](https://github.com/KaiJing1998/WeatherApps/tree/main//assets/interface.png?raw=true)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
