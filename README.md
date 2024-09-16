@@ -6,6 +6,6 @@ Welcome to the Weather App! This application provides real-time weather updates 
 
 ## UI Interface 
 
-![image](https://github.com/KaiJing1998/WeatherApps/tree/main//assets/interface.png)
+![image](https://github.com/KaiJing1998/WeatherApps/tree/main/assets/interface.png)
 
 
